@@ -4,7 +4,7 @@ export default function Home() {
   return (
 
     <div>
-      <h1>Hello airbnb!</h1>
+      <h1>Hello Airbnb!</h1>
     </div>
 
     
